@@ -1,2 +1,2 @@
-Asendab kategooriad menüü ribal ilusatega (javascript).
+Asendab menüüriba kategooriad ilusatega (javascript).
 
