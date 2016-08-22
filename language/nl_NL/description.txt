@@ -1,1 +1,1 @@
-Vervangt de categorie&euml;n in the menu balk door een mooiere versie (javascript).
+Vervangt de categorie&euml;n in de menubalk door een mooiere versie (javascript).
