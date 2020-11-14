@@ -1,0 +1,1 @@
+Înlocuiește categoriile din bara de meniu cu una mai frumoasă (javascript).
