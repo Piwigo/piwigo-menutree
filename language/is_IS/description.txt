@@ -1,0 +1,1 @@
+Kemur í stað flokkanna í valmyndastikunni fyrir flottari flokka (javascript).
