@@ -5,6 +5,7 @@ Plugin URI: http://piwigo.org/ext/extension_view.php?eid=238
 Description: Replaces the categories in the menu bar with a nicer one (javascript).
 Author: rvelices
 Author URI: http://www.modusoptimus.com
+Has Settings: false
 */
 
 
